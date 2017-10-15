@@ -35,3 +35,6 @@ You can store your assets in the ``` /assets/ ``` folder
 
 ## Components
 You can store your reusable components in the ``` /components/ ``` folder
+
+## API backend solution
+There is a package called [laft-laravel-api](https://github.com/daspete/laft-laravel-api) with which you can handle the api calls with jwt authentication
